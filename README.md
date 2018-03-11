@@ -4,7 +4,7 @@ The SmartFollowup is an intuitive example usage of [IBM Cloud Push Notifications
 
 The SmartFollowup app will register a feedback on the recently purchased items to the cloudant `feedback` database. The Cloud Functions will read changes in the `feedback` and will send data to Watson Tone Analyzer. The Tone Analyzer will send back the results to Cloud Functions. By analyzing the results, Cloud Functions will fetch appropriate message from Cloudant `moods` database and construct a valid message. This message gets pushed to `IBM Push Notifications service`, and is delivered to the mobile device.
 
-  <img src="assets/arch.png" width="700" height="400">
+  <img src="assets/archnew.png" width="700" height="400">
 
 ## Requirements
 
