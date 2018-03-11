@@ -17,7 +17,7 @@ The SmartFollowup app will register a feedback on the recently purchased items t
 
 Complete the steps:
 
- Go to https://console.ng.bluemix.net and Log in. Click on [Catalog](https://console.ng.bluemix.net/catalog/) on the top bar.
+ Go to [IBM Cloud ](https://console.ng.bluemix.net) and Log in. Click on [Catalog](https://console.ng.bluemix.net/catalog/) on the top bar.
 
 1. On the left pane click on `Mobile` below Apps.  Create a `Push notification service`.
 
