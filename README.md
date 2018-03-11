@@ -132,7 +132,7 @@ Add the cloudant values of `feedback` database.
 
 ### License
 
-Copyright 2017-2018 IBM Corporation
+Copyright 2018-2019 IBM Corporation
 
 Licensed under the [Apache License, Version 2.0 (the "License")](http://www.apache.org/licenses/LICENSE-2.0.html).
 
